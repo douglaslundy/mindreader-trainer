@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "families": [
+    {"id":"work-error","themes":["responsabilidade","autoria","cronologia","evidencia"],"twists":["responsavel_nao_autor","autor_sem_intencao","revisor_omisso","testemunha_imprecisa"]},
+    {"id":"alibi","themes":["narrativa","verificabilidade","transicoes"],"twists":["honesto_nervoso","mentira_parcial","memoria_falha","historia_ensaiada"]},
+    {"id":"relationship","themes":["afiliacao","limites","valores"],"twists":["desinteresse_educado","timidez","culpa_manipulativa","conflito_real"]},
+    {"id":"negotiation","themes":["blefe","poder","status"],"twists":["ameaca_real","blefe","alternativa_oculta","custo_assimetrico"]},
+    {"id":"fraud","themes":["autoridade","confusao","reciprocidade","urgencia"],"twists":["autoridade_falsa","fato_verdadeiro_historia_falsa","custo_irrecuperavel"]},
+    {"id":"mental-state","themes":["estado_traco","sofrimento","perspectiva"],"twists":["evento_agudo","padrao_longitudinal","evidencia_insuficiente"]},
+    {"id":"risk","themes":["ameaça","escalada","preparacao"],"twists":["fala_vaga","plano_concreto","deterioracao_sem_ameaca","crise_sem_violencia"]}
+  ]
+}

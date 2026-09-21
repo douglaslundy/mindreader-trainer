@@ -1,0 +1,67 @@
+{
+  "sessions": 0,
+  "weakest": [
+    {
+      "competency": "afiliacao_ordem",
+      "score": 0,
+      "attempts": 0,
+      "level": 1
+    },
+    {
+      "competency": "ansiedade_raiva",
+      "score": 0,
+      "attempts": 0,
+      "level": 1
+    },
+    {
+      "competency": "blefe_impressao",
+      "score": 0,
+      "attempts": 0,
+      "level": 1
+    },
+    {
+      "competency": "carga_complexidade",
+      "score": 0,
+      "attempts": 0,
+      "level": 1
+    },
+    {
+      "competency": "defesas",
+      "score": 0,
+      "attempts": 0,
+      "level": 1
+    }
+  ],
+  "strongest": [
+    {
+      "competency": "voz_distanciamento",
+      "score": 0,
+      "attempts": 0,
+      "level": 1
+    },
+    {
+      "competency": "valores_autorregulacao",
+      "score": 0,
+      "attempts": 0,
+      "level": 1
+    },
+    {
+      "competency": "transicoes_verificabilidade",
+      "score": 0,
+      "attempts": 0,
+      "level": 1
+    },
+    {
+      "competency": "risco_calibracao",
+      "score": 0,
+      "attempts": 0,
+      "level": 1
+    },
+    {
+      "competency": "resiliencia_perspectiva",
+      "score": 0,
+      "attempts": 0,
+      "level": 1
+    }
+  ]
+}

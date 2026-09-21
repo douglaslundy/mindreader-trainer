@@ -1,0 +1,29 @@
+MINDREADER TRAINER v2.1 — INÍCIO RÁPIDO
+
+1) Instale a skill:
+   Linux/macOS: chmod +x install.sh && ./install.sh
+   Windows PowerShell: Set-ExecutionPolicy -Scope Process Bypass; .\install.ps1
+
+2) Confirme:
+   jarvis skill list
+   jarvis skill info mindreader-trainer-v2
+
+3) Inicie o Jarvis com agente capaz de usar tools/skills:
+   jarvis chat --agent orchestrator
+
+4) COMANDO PRINCIPAL PARA CHAMAR A SKILL:
+   /mente
+
+Ao receber /mente, o Jarvis deve abrir o menu de treinamentos e perguntar qual opção você deseja.
+
+Comandos diretos de exemplo:
+   /mente diagnostico 12
+   /mente flashcards todos 15
+   /mente interrogatorio 3
+   /mente alibi 3
+   /mente melhor-pergunta mentiras 3
+   /mente revisao
+   /mente progresso
+
+Se o seu terminal ou interface não encaminhar mensagens iniciadas por '/', use:
+   Use a skill mindreader-trainer-v2 e abra o menu de treinamento.
